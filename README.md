@@ -9,34 +9,27 @@
 📚 I’m currently learning everything <br>
 ⚡ Fun fact: I love to play guitar and harmonica. And also geek movies.<br>
 
-
-<details open>
-<summary> 🤝🏻 &nbsp;Connect with Me: </summary>
+## 🤝🏻 Connect with Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walternascimentobarroso/)](https://www.linkedin.com/in/júlio-césar-s-melo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jcesarsm17@gamil.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://wa.me/5561998032236)
-</details>
 
-<details open>
-<summary> 🛠 &nbsp;Tech Stack </summary>
+## 🚀 Minha Especialidade:
 
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-</details>
+### Linguagens e Frameworks de Front-end
+[![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
 
-<details open>
-<summary> ⚡ &nbsp;Github Stats: </summary>
+### Linguagens e Frameworks de Back-end
+[![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![JavaScript](https://img.shields.io/badge/Javascript-e1af24?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+### Banco de Dados
+[![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+## ⚡ Github Stats:
 
 <p align="left">
 <a href="https://github.com/JulioCesarSousaMelo">
@@ -44,5 +37,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCesarSousaMelo&show_icons=true&locale=en&theme=radical"/>
 </a>
 </p>
-</details>
+
 
