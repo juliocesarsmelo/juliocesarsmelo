@@ -41,10 +41,8 @@
 ## ⚡ Github Stats:
 
 <p align="left">
-<a href="https://github.com/JulioCesarSousaMelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JulioCesarSousaMelo&show_icons=true&locale=en&layout=compact&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCesarSousaMelo&show_icons=true&locale=en&theme=radical"/>
-</a>
 </p>
 
 
