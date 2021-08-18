@@ -11,9 +11,9 @@
 
 ## 🤝🏻 Connect with Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walternascimentobarroso/)](https://www.linkedin.com/in/júlio-césar-s-melo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jcesarsm17@gamil.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://wa.me/5561998032236)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-fd428e?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walternascimentobarroso/)](https://www.linkedin.com/in/júlio-césar-s-melo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-fd428e?style=flat-square&logo=Gmail&logoColor=white)](mailto:jcesarsm17@gamil.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-fd428e?style=flat-square&labelColor=fd428e&logo=whatsapp&logoColor=white)](https://wa.me/5561998032236)
 
 ## 🚀 My Specialty:
 
@@ -25,16 +25,16 @@
 
 ### Linguagens e Frameworks de Back-end
 
-[![Php](https://img.shields.io/badge/php-00000F?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![JavaScript](https://img.shields.io/badge/Javascript-00000F?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Php](https://img.shields.io/badge/php-fd428e?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![JavaScript](https://img.shields.io/badge/Javascript-fd428e?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ### Banco de Dados
 [![MySql](https://img.shields.io/badge/MySQL-572694?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Versionamento e IDE
-[![Git](https://img.shields.io/badge/git-00000F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
-[![GitHub](https://img.shields.io/badge/github-00000F?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![VisualStudioCode](https://img.shields.io/badge/VS%20Code-00000F?style=for-the-badge&logo=visualstudio&logoColor=white)](https://code.visualstudio.com)
+[![Git](https://img.shields.io/badge/git-fd428e?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
+[![GitHub](https://img.shields.io/badge/github-fd428e?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![VisualStudioCode](https://img.shields.io/badge/VS%20Code-fd428e?style=for-the-badge&logo=visualstudio&logoColor=white)](https://code.visualstudio.com)
 
 
 
