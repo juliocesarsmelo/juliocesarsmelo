@@ -20,13 +20,13 @@
 ### Linguagens e Frameworks de Front-end
 [![HTML 5](https://img.shields.io/badge/HTML5-e84d31?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
 [![CSS 3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
-[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-572694?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![JQuery](https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com)
+[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-572694?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 
 ### Linguagens e Frameworks de Back-end
 
 [![Php](https://img.shields.io/badge/php-572694?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ### Banco de Dados
 [![MySql](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
