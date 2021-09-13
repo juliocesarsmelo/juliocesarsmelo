@@ -11,29 +11,29 @@
 
 ## 🤝🏻 Connect with Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-880E4F?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walternascimentobarroso/)](https://www.linkedin.com/in/júlio-césar-s-melo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-AD1457?style=flat-square&logo=Gmail&logoColor=white)](mailto:jcesarsm17@gamil.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-C2185B?style=flat-square&labelColor=C2185B&logo=whatsapp&logoColor=white)](https://wa.me/5561998032236)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walternascimentobarroso/)](https://www.linkedin.com/in/júlio-césar-s-melo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=Gmail&logoColor=white)](mailto:jcesarsm17@gamil.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-000000?style=flat-square&labelColor=000000&logo=whatsapp&logoColor=white)](https://wa.me/5561998032236)
 
 ## 🚀 My Specialty:
 
-[![HTML 5](https://img.shields.io/badge/HTML5-311B92?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
-[![CSS 3](https://img.shields.io/badge/CSS3-4527A0?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
-[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-512DA8?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![JavaScript](https://img.shields.io/badge/Javascript-6A1B9A?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![JQuery](https://img.shields.io/badge/jQuery-7B1FA2?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com)
-[![Php](https://img.shields.io/badge/php-8E24AA?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![MySql](https://img.shields.io/badge/MySQL-9C27B0?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Git](https://img.shields.io/badge/git-AB47BC?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
-[![VisualStudioCode](https://img.shields.io/badge/VS%20Code-BA68C8?style=for-the-badge&logo=visualstudio&logoColor=white)](https://code.visualstudio.com)
+[![HTML 5](https://img.shields.io/badge/HTML5-D50000?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![CSS 3](https://img.shields.io/badge/CSS3-304FFE?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-6200EA?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![JavaScript](https://img.shields.io/badge/Javascript-FFD600?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![JQuery](https://img.shields.io/badge/jQuery-304FFE?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com)
+[![Php](https://img.shields.io/badge/php-6200EA?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![MySql](https://img.shields.io/badge/MySQL-304FFE?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/git-D50000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
+[![VisualStudioCode](https://img.shields.io/badge/VS%20Code-304FFE?style=for-the-badge&logo=visualstudio&logoColor=white)](https://code.visualstudio.com)
 
 
 
 ## ⚡ Github Stats:
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JulioCesarSousaMelo&show_icons=true&locale=en&layout=compact&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulioCesarSousaMelo&show_icons=true&locale=en&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliocesarsmelo&show_icons=true&locale=en&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliocesarsmelo&show_icons=true&locale=en&theme=radical"/>
 </p>
 
 
