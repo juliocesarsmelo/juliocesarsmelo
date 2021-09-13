@@ -19,12 +19,13 @@
 
 [![HTML 5](https://img.shields.io/badge/HTML5-D50000?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
 [![CSS 3](https://img.shields.io/badge/CSS3-304FFE?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
-[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-6200EA?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-4A148C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![JavaScript](https://img.shields.io/badge/Javascript-FFD600?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![JQuery](https://img.shields.io/badge/jQuery-304FFE?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com)
-[![Php](https://img.shields.io/badge/php-6200EA?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![MySql](https://img.shields.io/badge/MySQL-304FFE?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Php](https://img.shields.io/badge/php-4A148C?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![Git](https://img.shields.io/badge/git-D50000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
+[![MySql](https://img.shields.io/badge/MySQL-304FFE?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 
 ## ⚡ Github Stats:
 
