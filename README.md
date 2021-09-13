@@ -25,9 +25,6 @@
 [![Php](https://img.shields.io/badge/php-6200EA?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![MySql](https://img.shields.io/badge/MySQL-304FFE?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/git-D50000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
-[![VisualStudioCode](https://img.shields.io/badge/VS%20Code-304FFE?style=for-the-badge&logo=visualstudio&logoColor=white)](https://code.visualstudio.com)
-
-
 
 ## ⚡ Github Stats:
 
