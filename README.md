@@ -11,30 +11,21 @@
 
 ## 🤝🏻 Connect with Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walternascimentobarroso/)](https://www.linkedin.com/in/júlio-césar-s-melo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-e84d31?style=flat-square&logo=Gmail&logoColor=white)](mailto:jcesarsm17@gamil.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-24cc63?style=flat-square&labelColor=24cc63&logo=whatsapp&logoColor=white)](https://wa.me/5561998032236)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-880E4F?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walternascimentobarroso/)](https://www.linkedin.com/in/júlio-césar-s-melo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-AD1457?style=flat-square&logo=Gmail&logoColor=white)](mailto:jcesarsm17@gamil.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-C2185B?style=flat-square&labelColor=C2185B&logo=whatsapp&logoColor=white)](https://wa.me/5561998032236)
 
 ## 🚀 My Specialty:
 
-### Linguagens e Frameworks de Front-end
-[![HTML 5](https://img.shields.io/badge/HTML5-e84d31?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
-[![CSS 3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
-[![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![JQuery](https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com)
-[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-572694?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-
-### Linguagens e Frameworks de Back-end
-
-[![Php](https://img.shields.io/badge/php-572694?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-
-### Banco de Dados
-[![MySql](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-### Versionamento e IDE
-[![Git](https://img.shields.io/badge/git-e84d31?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
-[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![VisualStudioCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudio&logoColor=white)](https://code.visualstudio.com)
+[![HTML 5](https://img.shields.io/badge/HTML5-311B92?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![CSS 3](https://img.shields.io/badge/CSS3-4527A0?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-512DA8?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![JavaScript](https://img.shields.io/badge/Javascript-6A1B9A?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![JQuery](https://img.shields.io/badge/jQuery-7B1FA2?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com)
+[![Php](https://img.shields.io/badge/php-8E24AA?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![MySql](https://img.shields.io/badge/MySQL-9C27B0?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/git-AB47BC?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
+[![VisualStudioCode](https://img.shields.io/badge/VS%20Code-BA68C8?style=for-the-badge&logo=visualstudio&logoColor=white)](https://code.visualstudio.com)
 
 
 
