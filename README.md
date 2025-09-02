@@ -96,7 +96,7 @@ Me chamo Júlio César Melo, tenho 24 anos e sou natural de Brasília, DF. Atual
 ## ⚡ Github Stats:
 
 <div align="center">
-    <img align="left" style="margin: 2px" width="132px" src="https://komarev.com/ghpvc/?username=JulioCesarSousaMelo&style=flat-square" alt="JulioCesarSousaMelo"/><br><br>
+    <img align="center" style="margin: 2px" width="132px" src="https://komarev.com/ghpvc/?username=JulioCesarSousaMelo&style=flat-square" alt="JulioCesarSousaMelo"/><br><br>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliocesarsmelo&show_icons=true&locale=en&layout=compact&theme=radical"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliocesarsmelo&show_icons=true&locale=en&theme=radical"/>
   
