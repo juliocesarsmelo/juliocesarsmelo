@@ -1,41 +1,107 @@
-<h1 align="center">Hi there, I'm Júlio César</h1>
+# 👩🏻‍💻 Júlio César Melo 
+**`Desenvolvedor FullStack`** <br>
 
-<p align="center">
-    <img align="center" style="margin: 2px" width="132px" src="https://komarev.com/ghpvc/?username=JulioCesarSousaMelo&style=flat-square" alt="JulioCesarSousaMelo"/>
-</p>
+Me chamo Júlio César Melo, tenho 24 anos e sou natural de Brasília, DF. Atualmente, estou finalizando a graduação em Sistemas de Informação na Universidade Projeção. Desde pequeno, sempre demonstrei interesse por tecnologia, com projetos de robótica. Hoje continuo na área, atuando com Desenvolvimento, além de possuir experiência em Redes e Segurança da Informação.
 
-💻 I’m Full-Stack Developer<br>
-🏡 I'm from Brazil, Brasília DF <br>
-📚 I’m currently learning everything <br>
-⚡ Fun fact: I love to play guitar and harmonica. And also geek movies.<br>
+## 🤖 Linguagens e Tecnologias
 
-## 🤝🏻 Connect with Me:
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"           
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walternascimentobarroso/)](https://www.linkedin.com/in/júlio-césar-s-melo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=Gmail&logoColor=white)](mailto:jcesarsm17@gamil.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-000000?style=flat-square&labelColor=000000&logo=whatsapp&logoColor=white)](https://wa.me/5561998032236)
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
 
-## 🚀 My Specialty:
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 
-[![HTML 5](https://img.shields.io/badge/HTML5-D50000?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
-[![CSS 3](https://img.shields.io/badge/CSS3-304FFE?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
-[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-4A148C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![JavaScript](https://img.shields.io/badge/Javascript-FFD600?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![JQuery](https://img.shields.io/badge/jQuery-304FFE?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com)
-[![Php](https://img.shields.io/badge/php-4A148C?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![Git](https://img.shields.io/badge/git-D50000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
-[![MySql](https://img.shields.io/badge/MySQL-304FFE?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+<img 
+    align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>    
 
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ## ⚡ Github Stats:
 
-   <div align="center">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliocesarsmelo&show_icons=true&locale=en&layout=compact&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliocesarsmelo&show_icons=true&locale=en&theme=radical"/>
+<div align="center">
+    <img align="left" style="margin: 2px" width="132px" src="https://komarev.com/ghpvc/?username=JulioCesarSousaMelo&style=flat-square" alt="JulioCesarSousaMelo"/><br><br>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliocesarsmelo&show_icons=true&locale=en&layout=compact&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliocesarsmelo&show_icons=true&locale=en&theme=radical"/>
   
-  ![Snake animation](https://github.com/juliocesarsmelo/juliocesarsmelo/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
+![Snake animation](https://github.com/juliocesarsmelo/juliocesarsmelo/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 
