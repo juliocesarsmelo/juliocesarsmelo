@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Júlio César Melo 
-**`Desenvolvedor FullStack `** com experiência no desenvolvimento e sustentação de aplicações web e APIs, atualmente finalizando a graduação em Sistemas de Informação. Atuo na construção de soluções completas, do back-end ao front-end, com atenção a boas práticas e qualidade de código, trazendo também conhecimentos complementares em Redes e Segurança da Informação. Possuo inglês técnico para leitura de documentação e comunicação no contexto de desenvolvimento.
+**`Desenvolvedor FullStack `** com experiência no desenvolvimento e sustentação de aplicações web e APIs. Atuo na construção de soluções completas, do back-end ao front-end, com atenção a boas práticas e qualidade de código, trazendo também conhecimentos complementares em Redes e Segurança da Informação. Possuo inglês técnico para leitura de documentação e comunicação no contexto de desenvolvimento.
 
 ### 🤖 Linguagens e Frameworks
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/></span>
